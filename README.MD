@@ -1,0 +1,1 @@
+# Alzheimer’s Disease Classification and Prediction by Applying Deep Learing Technique 
